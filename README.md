@@ -1,12 +1,18 @@
 # ash官网地址
 
-最新地址：[ash6.com](https://ash6.com/register?code=UYGOHfSe)
+最新地址：[ash6.com](https://dash.ash6.com/#/register?code=UYGOHfSe)
+
+备用地址：[ash.do](https://dash.ash.do/#/register?code=UYGOHfSe)
 
 ## ash介绍
 
 ash加速器，IPLC线路、隧道中转，由优质大陆中转线路承载。节点使用 trojan 协议
 
 解锁多国流媒体，ai解锁等，另外提供1PB资源Emby服务，除Mini套餐和不限时套餐外均支持Emby影视库。
+
+## ash优惠码
+
+新用户85折优惠码：[Ash](https://dash.ash.do/#/register?code=UYGOHfSe)
 
 ## ash套餐价格
 
