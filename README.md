@@ -22,6 +22,10 @@ ash加速器，IPLC线路、隧道中转，由优质大陆中转线路承载。�
 
 新用户85折优惠码：[Ash](https://dash.ash.do/#/register?code=UYGOHfSe)
 
+双节同庆，福利加码，限时上线！
+
+全场套餐 8 折，优惠码：[双节快乐](https://dash.ash.do/#/register?code=UYGOHfSe)
+
 ## ash套餐价格
 
 |套餐|Mini|Small|Medium|Large|Plus|
