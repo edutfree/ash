@@ -1,6 +1,6 @@
 # ash官网地址
 
-最新地址：[ash6.com](https://dash.ash6.com/#/register?code=UYGOHfSe)
+最新地址：[ash6.com](https://dash.ash.do/#/register?code=UYGOHfSe)
 
 备用地址：[ash.do](https://dash.ash.do/#/register?code=UYGOHfSe)
 
