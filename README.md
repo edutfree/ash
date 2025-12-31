@@ -22,9 +22,7 @@ ash加速器，IPLC线路、隧道中转，由优质大陆中转线路承载。�
 
 微斯人新用户85折优惠码：[Ash](https://dash.ash.do/#/register?code=UYGOHfSe)
 
-双节同庆，福利加码，限时上线！
-
-全场套餐 8 折，优惠码：[双节快乐](https://dash.ash.do/#/register?code=UYGOHfSe)
+全场套餐 85 折，优惠码：[元旦快乐](https://dash.ash.do/#/register?code=UYGOHfSe)
 
 ## ash套餐价格
 
@@ -35,8 +33,6 @@ ash加速器，IPLC线路、隧道中转，由优质大陆中转线路承载。�
 |半年付|¥34|¥58|¥118|¥178|¥288|
 |年付|¥66|¥112|¥230|¥350|¥566|
 |流量|60G/月|101G/月|200G/月|300G/月|500G/月|
-
-微斯人还有一个年付流量套餐：[￥50/年/共150G流量](https://ash6.com/register?code=UYGOHfSe)
 
 ---
 
